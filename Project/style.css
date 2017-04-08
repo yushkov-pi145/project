@@ -1,0 +1,9 @@
+body{
+	background: gray;
+	color: gold;
+}
+h1{
+	color:red; 
+	text-decoration:overline;
+	text-align: center;
+}
